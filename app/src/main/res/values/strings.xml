@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tugas1</string>
+    <string name="jdl">Pendaftaran</string>
+    <string name="nm">Nama</string>
+    <string name="almt">Alamat</string>
+    <string name="Date">Tanggal</string>
+    <string name="btn">Daftar</string>
+    <string name="hsl">Iki Tampilan Hasil!!</string>
+    <string name="namadpn">Nama Depan</string>
+    <string name="namablkng">Nama Belakang</string>
+    <string name="lahir">Tempat Lahir</string>
+    <string name="tlp">Telepon</string>
+    <string name="em">Email</string>
+    <string name="pw1">Password</string>
+    <string name="pw2">Masukkan Password Kembali</string>
+    <string name="tgl">Tanggal Lahir</string>
+    <string name="jnsklmn">Jenis Kelamin</string>
+    <string name="lk">Laki Laki</string>
+    <string name="pr">Perempuan</string>
+    <string name="agm">Agama</string>
+    <string name="i">Islam</string>
+    <string name="kr">Kristen</string>
+    <string name="ka">Katholik</string>
+    <string name="hi">Hindu</string>
+    <string name="bd">Buddha</string>
+    <string name="kh">KongHucu</string>
+    <string name="kp">Aliran Kepercayaan</string>
+</resources>
